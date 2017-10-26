@@ -15,5 +15,12 @@
         "files": [
             "registration.php"
         ]
+    },
+    "repositories": {
+        "webgriffe-bootstrap-menu": {
+            "type": "vcs",
+            "url": "https://github.com/etaroza/module-bootstrap-menu.git",
+            "no-api": true
+        }
     }
 }
